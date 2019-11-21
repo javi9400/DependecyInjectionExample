@@ -1,0 +1,11 @@
+/Users/javiermayorga/Projects/aspNetCoreExamples/DependecyInjectionExample/bin/Debug/netcoreapp3.0/DependecyInjectionExample
+/Users/javiermayorga/Projects/aspNetCoreExamples/DependecyInjectionExample/bin/Debug/netcoreapp3.0/DependecyInjectionExample.deps.json
+/Users/javiermayorga/Projects/aspNetCoreExamples/DependecyInjectionExample/bin/Debug/netcoreapp3.0/DependecyInjectionExample.runtimeconfig.json
+/Users/javiermayorga/Projects/aspNetCoreExamples/DependecyInjectionExample/bin/Debug/netcoreapp3.0/DependecyInjectionExample.runtimeconfig.dev.json
+/Users/javiermayorga/Projects/aspNetCoreExamples/DependecyInjectionExample/bin/Debug/netcoreapp3.0/DependecyInjectionExample.dll
+/Users/javiermayorga/Projects/aspNetCoreExamples/DependecyInjectionExample/bin/Debug/netcoreapp3.0/DependecyInjectionExample.pdb
+/Users/javiermayorga/Projects/aspNetCoreExamples/DependecyInjectionExample/obj/Debug/netcoreapp3.0/DependecyInjectionExample.csprojAssemblyReference.cache
+/Users/javiermayorga/Projects/aspNetCoreExamples/DependecyInjectionExample/obj/Debug/netcoreapp3.0/DependecyInjectionExample.AssemblyInfoInputs.cache
+/Users/javiermayorga/Projects/aspNetCoreExamples/DependecyInjectionExample/obj/Debug/netcoreapp3.0/DependecyInjectionExample.AssemblyInfo.cs
+/Users/javiermayorga/Projects/aspNetCoreExamples/DependecyInjectionExample/obj/Debug/netcoreapp3.0/DependecyInjectionExample.dll
+/Users/javiermayorga/Projects/aspNetCoreExamples/DependecyInjectionExample/obj/Debug/netcoreapp3.0/DependecyInjectionExample.pdb
